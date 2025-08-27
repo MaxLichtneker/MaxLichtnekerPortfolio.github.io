@@ -1,7 +1,18 @@
 .ProjectDescription-style{
-    width:95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width:70vh;
     height:50%;
     background-color: #1B2432;
     border-radius: 15px;
     margin: 10px;
+}
+
+.description-gif-syle{
+ max-width: 100%;
+
+ border-top-left-radius: 15px;
+ border-top-right-radius: 15px;
 }
