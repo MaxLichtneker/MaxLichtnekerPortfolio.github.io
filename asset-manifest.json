@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/css/main.a0943373.css",
-    "main.js": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/main.5af3cd48.js",
-    "static/js/453.4579bd7c.chunk.js": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/453.4579bd7c.chunk.js",
-    "static/media/blockIt.mp4": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/blockIt.13d38e612d6400df4a6d.mp4",
-    "index.html": "/MaxLichtnekerPortfolio.github.io/gh-pages/index.html",
-    "main.a0943373.css.map": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/css/main.a0943373.css.map",
-    "main.5af3cd48.js.map": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/main.5af3cd48.js.map",
-    "453.4579bd7c.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/453.4579bd7c.chunk.js.map"
+    "main.css": "/MaxLichtnekerPortfolio.github.io/static/css/main.a0943373.css",
+    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.dc7cf8a7.js",
+    "static/js/453.4579bd7c.chunk.js": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js",
+    "static/media/blockIt.mp4": "/MaxLichtnekerPortfolio.github.io/static/media/blockIt.13d38e612d6400df4a6d.mp4",
+    "index.html": "/MaxLichtnekerPortfolio.github.io/index.html",
+    "main.a0943373.css.map": "/MaxLichtnekerPortfolio.github.io/static/css/main.a0943373.css.map",
+    "main.dc7cf8a7.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.dc7cf8a7.js.map",
+    "453.4579bd7c.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0943373.css",
-    "static/js/main.5af3cd48.js"
+    "static/js/main.dc7cf8a7.js"
   ]
 }
