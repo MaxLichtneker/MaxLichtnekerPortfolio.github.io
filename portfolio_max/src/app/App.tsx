@@ -21,6 +21,11 @@ function App() {
         <ProjectDescription imageName={require('../assets/egg_Game_Jam/Egg_Game_Jam_clip.gif')} projectName='School Game Jam theme EGG' projectDescription=''/>
       </div>
       <h1>Web Development</h1>
+        <div className='Description-style'>
+          <ProjectDescription imageName={require('../assets/portfolio_Clips/Gabriella_Portfolio_Clip.gif')} projectName='Portfolio Gabriella Lichtneker' projectDescription=''/>
+          <ProjectDescription imageName={require('../assets/portfolio_Clips/Anne_portfolio_Clip.gif')} projectName='Portfolio Anne Roos Leeuwis' projectDescription=''/>
+        </div>
+      <h1>About me</h1> 
     </div>
   );
 }
