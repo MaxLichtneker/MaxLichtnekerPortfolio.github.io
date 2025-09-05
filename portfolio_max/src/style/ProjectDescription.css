@@ -13,6 +13,20 @@
     text-align: left;
 }
 
+.description-information{
+    background-color: rgba(0, 0, 0, 0.466);
+
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+    font-size: small;
+    padding-left: 5px;
+    gap: 20px;
+}
+
 .description-gif-syle{
     display: block;
     margin: 0;
@@ -20,6 +34,15 @@
     height: auto;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+}
+
+.description-text-box{
+    padding: 5px;
+}
+
+.description-header{
+    font-size:3vh;
+    margin-top: 0;
 }
 
 .p1{
