@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/css/main.35714ca1.css",
-    "main.js": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/main.252b2770.js",
-    "static/js/453.4579bd7c.chunk.js": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/453.4579bd7c.chunk.js",
-    "static/media/Volcano_Fest_Clip (1).gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
-    "static/media/Switchgameplay.gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/Switchgameplay.0f566b5bc3c412d23196.gif",
-    "static/media/Overgrown_Clip.gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/Overgrown_Clip.059cb48123817c21c01c.gif",
-    "static/media/a.s.r_Burnout_VR.gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/a.s.r_Burnout_VR.1f68b9db86a9fb5cac02.gif",
-    "static/media/blockIt.mp4": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/blockIt.13d38e612d6400df4a6d.mp4",
-    "static/media/Gabriella_Portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/Gabriella_Portfolio_Clip.680aa41d2c0c143ec03b.gif",
-    "static/media/Egg_Game_Jam_clip.gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/Egg_Game_Jam_clip.a3f96e409ccdb9239ba2.gif",
-    "static/media/Anne_portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/Anne_portfolio_Clip.f4a50f6c6b97ff284c0c.gif",
-    "static/media/FixMyTattoo_Gif_1.gif": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/media/FixMyTattoo_Gif_1.767829faa9b7ac0a284f.gif",
-    "index.html": "/MaxLichtnekerPortfolio.github.io/gh-pages/index.html",
-    "main.35714ca1.css.map": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/css/main.35714ca1.css.map",
-    "main.252b2770.js.map": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/main.252b2770.js.map",
-    "453.4579bd7c.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/gh-pages/static/js/453.4579bd7c.chunk.js.map"
+    "main.css": "/MaxLichtnekerPortfolio.github.io/static/css/main.35714ca1.css",
+    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.7295dadb.js",
+    "static/js/453.4579bd7c.chunk.js": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js",
+    "static/media/Volcano_Fest_Clip (1).gif": "/MaxLichtnekerPortfolio.github.io/static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
+    "static/media/Switchgameplay.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Switchgameplay.0f566b5bc3c412d23196.gif",
+    "static/media/Overgrown_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Overgrown_Clip.059cb48123817c21c01c.gif",
+    "static/media/a.s.r_Burnout_VR.gif": "/MaxLichtnekerPortfolio.github.io/static/media/a.s.r_Burnout_VR.1f68b9db86a9fb5cac02.gif",
+    "static/media/blockIt.mp4": "/MaxLichtnekerPortfolio.github.io/static/media/blockIt.13d38e612d6400df4a6d.mp4",
+    "static/media/Gabriella_Portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Gabriella_Portfolio_Clip.680aa41d2c0c143ec03b.gif",
+    "static/media/Egg_Game_Jam_clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Egg_Game_Jam_clip.a3f96e409ccdb9239ba2.gif",
+    "static/media/Anne_portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Anne_portfolio_Clip.f4a50f6c6b97ff284c0c.gif",
+    "static/media/FixMyTattoo_Gif_1.gif": "/MaxLichtnekerPortfolio.github.io/static/media/FixMyTattoo_Gif_1.767829faa9b7ac0a284f.gif",
+    "index.html": "/MaxLichtnekerPortfolio.github.io/index.html",
+    "main.35714ca1.css.map": "/MaxLichtnekerPortfolio.github.io/static/css/main.35714ca1.css.map",
+    "main.7295dadb.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.7295dadb.js.map",
+    "453.4579bd7c.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35714ca1.css",
-    "static/js/main.252b2770.js"
+    "static/js/main.7295dadb.js"
   ]
 }
