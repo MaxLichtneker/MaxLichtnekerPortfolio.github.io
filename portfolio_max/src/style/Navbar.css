@@ -1,11 +1,8 @@
 .Navbar{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-
     width: 100%;
     min-height: 5vh;
 
+    display: block;
     position: fixed;
 
     backdrop-filter: blur(10px);
@@ -13,3 +10,21 @@
     background-color: #1b2432d0;
     z-index: 2;
 }
+
+.navbar-left{
+    float: left;
+    padding-left: 10px;
+    font-size: 2vh;
+}
+
+.navbar-right{
+    float: right;
+    flex-direction: row;
+    display: flex;
+
+
+    gap: 25px;
+    padding-right: 10px;
+
+    font-size: 1.25vh;
+}   
