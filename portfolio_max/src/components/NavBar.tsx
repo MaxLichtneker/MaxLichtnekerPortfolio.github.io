@@ -1,14 +1,25 @@
 import '../style/Navbar.css'
-import Message from './Message';
+import Hamburger from './HamburgerMenu';
+
+interface PagesInerface{
+    pageID: string;
+}
+
+function ScrollToPage(props:PagesInerface){
+    const element = document.getElementById(props.pageID);
+    element?.scrollIntoView({
+        behavior:'smooth'
+    })
+}
+
 function NavBar(){
     return <div className="Navbar">
-        <div className='navbar-left'>
-            <h1>Max Lichtneker</h1>
-        </div>
-        <div className='navbar-right'>
-            <h1>Projects</h1>
-            <h1>Web development</h1> 
-            <h1>About</h1> 
+        <h1>Max Lichtneker</h1>
+        <div className='Navbar-right'>
+            <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</h1>
+            <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</h1> 
+            <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'About'})}>About</h1> 
+            {/* <Hamburger></Hamburger> */}
         </div>
     </div>
 }

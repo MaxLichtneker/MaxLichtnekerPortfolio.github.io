@@ -1,0 +1,17 @@
+.Hamburger-Container{
+    width: 4em;
+    height: 60%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.Burger-Widget{
+    width: 4em;
+    height: .5em;
+    background-color: #EFA00B;
+    display: block;
+    width: 8;
+    border-radius: 2em;
+}
