@@ -26,7 +26,7 @@ function App() {
           <ProjectDescription imageName={require('../assets/portfolio_Clips/Gabriella_Portfolio_Clip.gif')} projectName='Portfolio Gabriella Lichtneker' projectDescription='' projectYear='2024' projectSoftware='HTML-CSS' projectLength='2 weeks'/>
           <ProjectDescription imageName={require('../assets/portfolio_Clips/Anne_portfolio_Clip.gif')} projectName='Portfolio Anne Roos Leeuwis' projectDescription='' projectYear='2024' projectSoftware='HTML-CSS' projectLength='2 weeks'/>
         </div>
-      <h1 id='About'>About me</h1> 
+      <h1 id='About'>ABOUT ME</h1> 
       <div className='Description-style'>
         <img src=''/>
         <p className='p1'> I live in the Netherlands and am currently studying software development at Hogeschool Utrecht. Ever since I first started playing video games, 

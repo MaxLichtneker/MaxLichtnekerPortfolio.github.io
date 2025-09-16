@@ -19,8 +19,8 @@ function NavBar(){
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</h1>
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</h1> 
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'About'})}>About</h1> 
-            {/* <Hamburger></Hamburger> */}
         </div>
+        <Hamburger></Hamburger>
     </div>
 }
 export default NavBar;
