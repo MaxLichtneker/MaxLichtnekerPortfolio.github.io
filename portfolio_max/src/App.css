@@ -2,7 +2,8 @@
   text-align:start;
   background-color: #364151;
   color: #EFA00B;
-  min-height: 500vh;
+  width: auto;
+  height: auto;
   text-align: center;
 }
 

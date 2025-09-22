@@ -72,7 +72,7 @@ function App() {
             <FaGithub />
           </div>
           <p className='p1 aboutDiscription-style'>OTHER PROGRAMS</p>
-          <div className='Icon-list'>
+          <div style={{paddingBottom:"20px"}} className='Icon-list'>
             <SiBlender />
             <SiAutodeskmaya />
             <FiFigma />
