@@ -2,6 +2,7 @@
     width: 75px;
     height: 75px;
     border-radius: 9999px;
+    display: flex;
     position: relative;
     cursor: pointer;
     margin-left: auto;

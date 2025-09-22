@@ -68,7 +68,7 @@ function Hamburger(){
                     bottom:["35%", "50%", "50%"]
                 },
                 closed:{
-                    rotate: ["45deg","0","0"],
+                    rotate: ["-45deg","0","0"],
                     bottom:["50%", "50%", "35%"]
                 }
             }}
