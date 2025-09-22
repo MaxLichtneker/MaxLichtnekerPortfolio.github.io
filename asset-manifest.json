@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c5a98e04.css",
-    "main.js": "./static/js/main.b1980842.js",
+    "main.css": "./static/css/main.611f3f57.css",
+    "main.js": "./static/js/main.53d0032d.js",
     "static/js/453.4579bd7c.chunk.js": "./static/js/453.4579bd7c.chunk.js",
     "static/media/Volcano_Fest_Clip (1).gif": "./static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
     "static/media/Switchgameplay.gif": "./static/media/Switchgameplay.0f566b5bc3c412d23196.gif",
@@ -14,12 +14,12 @@
     "static/media/Max_Photo.png": "./static/media/Max_Photo.055ad84057b53ab68f1f.png",
     "static/media/FixMyTattoo_Gif_1.gif": "./static/media/FixMyTattoo_Gif_1.767829faa9b7ac0a284f.gif",
     "index.html": "./index.html",
-    "main.c5a98e04.css.map": "./static/css/main.c5a98e04.css.map",
-    "main.b1980842.js.map": "./static/js/main.b1980842.js.map",
+    "main.611f3f57.css.map": "./static/css/main.611f3f57.css.map",
+    "main.53d0032d.js.map": "./static/js/main.53d0032d.js.map",
     "453.4579bd7c.chunk.js.map": "./static/js/453.4579bd7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5a98e04.css",
-    "static/js/main.b1980842.js"
+    "static/css/main.611f3f57.css",
+    "static/js/main.53d0032d.js"
   ]
 }
