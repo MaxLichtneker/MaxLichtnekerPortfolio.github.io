@@ -34,6 +34,37 @@
   width: 100%;
 }
 
+.About-me-style{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  gap: 10px;
+}
+
+.Information-skills{
+  width: 50%;
+}
+
+.Image-style{
+  width: 400px;
+  height: 600px;
+}
+
+.aboutDiscription-style{
+  width: 80%;
+  font-size: 2vh;
+  text-align: start;
+}
+
+.Icon-list{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+
+  font-size: 5vh;
+}
 .p1{
  margin: 1;
  color: white;

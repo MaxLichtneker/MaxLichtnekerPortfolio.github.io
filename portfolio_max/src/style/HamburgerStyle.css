@@ -2,9 +2,10 @@
     width: 75px;
     height: 75px;
     border-radius: 9999px;
-    display: flex;
+
     position: relative;
     cursor: pointer;
+
     margin-left: auto;
     padding-right: 10px;
     background-color: rgba(255, 255, 255, 0);
@@ -19,7 +20,8 @@
 }
 
 .Hamburger-Container{
-    display: flex;
+    display: block;
+    position: absolute;
     flex-direction: column;
     width: 200px;
     height: 100em;
@@ -35,6 +37,8 @@
 }
 
 .Burger-Button-Style{
+    width: 100%;
+    height: auto;
     background-color: #EFA00B;
     border-color: #0000;
     border-radius: .1;

@@ -76,15 +76,26 @@ function Hamburger(){
 
         </motion.button>
      </MotionConfig>
-        {isOpen && (
-            <>
-            <div className='Hamburger-Container'>
-                <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</button>
-                <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</button>
-                <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'About'})}>About</button>
-            </div>
-            </>
-        )}
+        <>
+        <motion.span 
+        animate={isOpen ? "open" : "closed"}
+        style={{
+            right:"-100%"
+        }}
+        variants={{
+            open:{
+                right:["-100%", "0"]
+            },
+            closed:{
+                right:["0","-100%"]
+            }
+        }}
+        className='Hamburger-Container'>
+            <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</button>
+            <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</button>
+            <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'About'})}>About</button>
+        </motion.span>
+        </>
     </nav>
     )
 }

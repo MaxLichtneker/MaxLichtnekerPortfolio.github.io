@@ -3,8 +3,24 @@ import '../App.css';
 import Message from '../components/Message';
 import NavBar from '../components/NavBar';
 import ProjectDescription from '../components/ProjectDescription';
+import { FaUnity } from "react-icons/fa";
+import { SiUnrealengine } from "react-icons/si";
+import { DiVisualstudio } from "react-icons/di";
+import { SiJetbrains } from "react-icons/si";
+import { PiFileCSharp } from "react-icons/pi";
+import { CgCPlusPlus } from "react-icons/cg";
+import { FaHtml5 } from "react-icons/fa";
+import { FaCss3Alt } from "react-icons/fa";
+import { FaReact } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
+import { SiTypescript } from "react-icons/si";
+import { IoLogoJavascript } from "react-icons/io5";
+import { SiBlender } from "react-icons/si";
+import { SiAutodeskmaya } from "react-icons/si";
+import { FiFigma } from "react-icons/fi";
 
 function App() {
+  const imageUrl = 'https://www.flaticon.com/free-icons/github';
   return (
     <div className="App">
       <NavBar></NavBar>
@@ -27,13 +43,41 @@ function App() {
           <ProjectDescription imageName={require('../assets/portfolio_Clips/Anne_portfolio_Clip.gif')} projectName='Portfolio Anne Roos Leeuwis' projectDescription='' projectYear='2024' projectSoftware='HTML-CSS' projectLength='2 weeks'/>
         </div>
       <h1 id='About'>ABOUT ME</h1> 
-      <div className='Description-style'>
-        <img src=''/>
-        <p className='p1'> I live in the Netherlands and am currently studying software development at Hogeschool Utrecht. Ever since I first started playing video games, 
-            I’ve been curious about how they’re made and what goes on behind the scenes. 
-            So it’s really cool to now be working on and making my own games, while teaming up with some great people. 
-            I mainly program, but enjoy 3-D modeling and game design, as well as solving problems and coming up with ways to fix them. 
-            When I’m not playing or working on games, I play guitar and paint like Bob Ross – but not at the same time!</p>
+      <div className='About-me-style'>
+        <img src={require('../assets/Max_Photo.png')} className='Image-style'/>
+        <div className='Information-skills'>
+          <p className='p1 aboutDiscription-style'> I live in the Netherlands and am currently studying software development at Hogeschool Utrecht. Ever since I first started playing video games, 
+          I’ve been curious about how they’re made and what goes on behind the scenes. 
+          So it’s really cool to now be working on and making my own games, while teaming up with some great people. 
+          I mainly program, but enjoy 3-D modeling and game design, as well as solving problems and coming up with ways to fix them. 
+          When I’m not playing or working on games, I play guitar and paint like Bob Ross – but not at the same time!
+          </p>
+          <h1 style={{textAlign:"start"}}>SKILLS</h1>
+          <p className='p1 aboutDiscription-style'>GAME ENGINES & IDES</p>
+          <div className='Icon-list'>
+            <FaUnity/>
+            <SiUnrealengine/>
+            <DiVisualstudio />
+            <SiJetbrains />
+          </div>
+          <p className='p1 aboutDiscription-style'>PROGRAMMING LANGUAGES & TOOLS</p>
+          <div className='Icon-list'>
+            <PiFileCSharp/>
+            <CgCPlusPlus/>
+            <FaHtml5/>
+            <FaCss3Alt/>
+            <FaReact />
+            <IoLogoJavascript />
+            <SiTypescript />
+            <FaGithub />
+          </div>
+          <p className='p1 aboutDiscription-style'>OTHER PROGRAMS</p>
+          <div className='Icon-list'>
+            <SiBlender />
+            <SiAutodeskmaya />
+            <FiFigma />
+          </div>
+        </div>
       </div>
     </div>
     
