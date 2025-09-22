@@ -13,6 +13,10 @@
     
 }
 
+.Navbar-Mobile{
+    display: none;
+}
+
 .Navbar-right{
     display: flex;
     margin-left: auto;
@@ -21,6 +25,22 @@
 
     font-size: 1.25vh;
 }   
+
+@media(max-width:768px){
+    .Navbar-right{
+        display: none;
+    }
+
+    .Navbar-Mobile{
+        display: flex;
+        margin-left: auto;
+        gap: 25px;
+        padding-right: 10px;
+
+        font-size: 1.25vh;
+    }
+}
+
 
 .HoverStyle{
     cursor: pointer;

@@ -15,12 +15,16 @@ function ScrollToPage(props:PagesInerface){
 function NavBar(){
     return <div className="Navbar">
         <h1>Max Lichtneker</h1>
-        <div className='Navbar-right'>
+        <div className='Navbar-right Desktop-nav'>
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</h1>
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</h1> 
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'About'})}>About</h1> 
         </div>
-        <Hamburger></Hamburger>
+
+        <div className='Navbar-Mobile'>
+            <Hamburger/>
+        </div>
     </div>
+    
 }
 export default NavBar;
