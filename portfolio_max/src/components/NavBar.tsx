@@ -13,6 +13,7 @@ function ScrollToPage(props:PagesInerface){
 }
 
 function NavBar(){
+    const IconWrapper = ({ Icon }: { Icon: React.ElementType }) => <Icon />;
     return <div className="Navbar">
         <h1>Max Lichtneker</h1>
         <div className='Navbar-right Desktop-nav'>
