@@ -51,6 +51,7 @@
 .Image-style{
   width: 400px;
   height: 600px;
+  margin: 5px;
 }
 
 .aboutDiscription-style{
@@ -62,10 +63,11 @@
 .Icon-list{
   display: flex;
   flex-direction: row;
-  gap: 20px;
+  gap: 10px;
 
-  font-size: 5vh;
+  font-size: 250%;
 }
+
 .p1{
  margin: 1;
  color: white;
