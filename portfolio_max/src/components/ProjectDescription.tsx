@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import '../style/ProjectDescription.css';
 
 interface DescriptionProperties{
@@ -7,6 +8,7 @@ interface DescriptionProperties{
     projectYear:string;
     projectSoftware:string;
     projectLength:string;
+    projectLink:string;
 }
 
 function ProjectDescription(props:DescriptionProperties){
@@ -18,10 +20,9 @@ function ProjectDescription(props:DescriptionProperties){
             <p>project length: {props.projectLength}</p>
         </div>
         <div className='description-text-box'>
-            <h1 className='description-header'>{props.projectName}</h1>
+           <Link style={{textDecoration:'none', color:'#EFA00B'}} to={props.projectLink}><h1 className='description-header'>{props.projectName} <span style={{marginLeft:'1rem'}}>&gt;</span></h1></Link>
             <p className='p1'>{props.projectDescription}</p>
         </div>
     </div>
 }
-//Overgrown was a game I made at school with a group of 4 I really hope this appears below the image now
 export default ProjectDescription;
