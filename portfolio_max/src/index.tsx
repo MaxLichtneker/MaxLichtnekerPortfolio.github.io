@@ -3,21 +3,21 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './app/App';
 import reportWebVitals from './reportWebVitals';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Switch from './pages/Switch';
-
-const router = createBrowserRouter([
-  {path:'/',element:<App/>},
-  {path:'/switch',element:<Switch/>}
-])
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
-  <React.StrictMode>
-    <RouterProvider router={router}/>
-  </React.StrictMode>
+    <React.StrictMode>
+      <Router>
+       <Routes>
+          <Route path="/" element={<App/>} />
+          <Route path="/switch" element={<Switch />} />
+       </Routes>
+      </Router>
+    </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
