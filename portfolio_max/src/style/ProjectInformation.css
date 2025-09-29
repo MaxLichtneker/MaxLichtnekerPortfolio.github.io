@@ -1,0 +1,47 @@
+.page{
+  background-color: #364151;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+.video-Container{
+    background-color: #364151;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+
+    padding-top: 9vh;
+    height: 100%;
+    width: 100%;
+}
+
+.video{
+    width: 100%;
+    height: 100%
+}
+
+.information-Container{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: #1B2432;
+    width: 60%;
+    border-radius: 15px;
+    height: auto;
+}
+
+.p1{
+ margin: 10px;
+ color: white;
+ text-align: start;
+ font-size: 1rem;
+}
+
+.Header{
+  font-size: calc(10px + 2vmin);
+  color: #EFA00B;
+}

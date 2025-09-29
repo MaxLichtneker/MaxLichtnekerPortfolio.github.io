@@ -5,6 +5,9 @@ import App from './app/App';
 import reportWebVitals from './reportWebVitals';
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Switch from './pages/Switch';
+import Overgrown from './pages/Overgrown';
+import AsrBurnout from './pages/AsrBurnout';
+import EggGameJam from './pages/EggGameJam';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -15,6 +18,9 @@ root.render(
        <Routes>
           <Route path="/" element={<App/>} />
           <Route path="/switch" element={<Switch />} />
+          <Route path="/overgrown" element={<Overgrown/>}/> 
+          <Route path='/asrburnout' element={<AsrBurnout/>}/>
+          <Route path='/gamejamegg' element={<EggGameJam/>}/>
        </Routes>
       </Router>
     </React.StrictMode>

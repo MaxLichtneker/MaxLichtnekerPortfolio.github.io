@@ -1,5 +1,6 @@
 import '../style/Navbar.css'
 import Hamburger from './HamburgerMenu';
+import { Link } from 'react-router-dom';
 
 interface PagesInerface{
     pageID: string;
@@ -15,7 +16,7 @@ function ScrollToPage(props:PagesInerface){
 function NavBar(){
     const IconWrapper = ({ Icon }: { Icon: React.ElementType }) => <Icon />;
     return <div className="Navbar">
-        <h1>Max Lichtneker</h1>
+        <Link  style={{textDecoration:'none', color:'#EFA00B'}} to="/"><h1 style={{cursor:"pointer"}}>Max Lichtneker</h1></Link>
         <div className='Navbar-right Desktop-nav'>
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</h1>
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</h1> 
