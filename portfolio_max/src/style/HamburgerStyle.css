@@ -20,13 +20,16 @@
 }
 
 .Hamburger-Container{
-    display: block;
-    position: absolute;
+    display: flex;
+    position: fixed;
     flex-direction: column;
     width: 200px;
     height: 100em;
     background-color: #EFA00B;
     border-radius: 5px;
+    right: 0;
+    transform: translateX(100%);
+    z-index: 9999;
 }
 
 .Burger-Widget{

@@ -79,15 +79,12 @@ function Hamburger(){
         <>
         <motion.span 
         animate={isOpen ? "open" : "closed"}
-        style={{
-            right:"-100%"
-        }}
         variants={{
             open:{
-                right:["-100%", "0"]
+                x:0
             },
             closed:{
-                right:["0","-100%"]
+                x:"100%"
             }
         }}
         className='Hamburger-Container'>

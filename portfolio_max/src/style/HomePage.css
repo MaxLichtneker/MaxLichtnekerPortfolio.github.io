@@ -2,13 +2,13 @@
   text-align:start;
   background-color: #364151;
   color: #EFA00B;
-  width: auto;
+  width: 100%;
   height: auto;
   text-align: center;
 }
 
 .App-header {
-  min-height: 100vh;
+  max-height: 100%;
   display: flex;
   flex-direction: column;
   align-items: start;
@@ -18,7 +18,6 @@
 }
 
 .video-style{
-  top: 0;
   width: 100%;
   z-index: 0;
 
@@ -32,7 +31,6 @@
   justify-content: center;
 
   gap: 10px;
-  width: 100%;
 }
 
 .About-me-style{
@@ -49,7 +47,7 @@
 }
 
 .Image-style{
-  width: 400px;
+  max-width: 100%;
   height: 600px;
   margin: 5px;
 }
@@ -79,5 +77,10 @@
         width: auto;
         font-size: 1rem;
         text-align: center;
+  }
+
+  .Image-style {
+    width: 90vw;
+    height: auto;
   }
 }
