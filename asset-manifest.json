@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaxLichtnekerPortfolio.github.io/static/css/main.bf7eb67d.css",
-    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.f096bd11.js",
+    "main.css": "/MaxLichtnekerPortfolio.github.io/static/css/main.41a09437.css",
+    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.7a1e052e.js",
     "static/js/453.4579bd7c.chunk.js": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js",
     "static/media/Volcano_Fest_Clip (1).gif": "/MaxLichtnekerPortfolio.github.io/static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
     "static/media/Switchgameplay.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Switchgameplay.0f566b5bc3c412d23196.gif",
@@ -14,12 +14,12 @@
     "static/media/Max_Photo.png": "/MaxLichtnekerPortfolio.github.io/static/media/Max_Photo.055ad84057b53ab68f1f.png",
     "static/media/FixMyTattoo_Gif_1.gif": "/MaxLichtnekerPortfolio.github.io/static/media/FixMyTattoo_Gif_1.767829faa9b7ac0a284f.gif",
     "index.html": "/MaxLichtnekerPortfolio.github.io/index.html",
-    "main.bf7eb67d.css.map": "/MaxLichtnekerPortfolio.github.io/static/css/main.bf7eb67d.css.map",
-    "main.f096bd11.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.f096bd11.js.map",
+    "main.41a09437.css.map": "/MaxLichtnekerPortfolio.github.io/static/css/main.41a09437.css.map",
+    "main.7a1e052e.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.7a1e052e.js.map",
     "453.4579bd7c.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf7eb67d.css",
-    "static/js/main.f096bd11.js"
+    "static/css/main.41a09437.css",
+    "static/js/main.7a1e052e.js"
   ]
 }
