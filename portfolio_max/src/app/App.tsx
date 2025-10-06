@@ -22,7 +22,7 @@ function HomePage(){
     return(
       <div className="App">
       <NavBar></NavBar>
-      <video className='video-style' src={require("../assets/blockIt.mp4")} autoPlay muted loop></video>
+      <video className='video-style' src={require("../assets/Showreel.mp4")} autoPlay muted loop></video>
       <h1 id='Projects'>PROJECTS</h1>
       <div className='Description-style'>
         <ProjectDescription imageName={require('../assets/a.s.rProject/a.s.r_Burnout_VR.gif')} projectName='A.S.R VR BURNOUT EXPERIENCE' projectLink='/asrburnout' projectDescription='I made a game for a.s.r I was lead developer, teaching 3 others how to use Unity while building important game systems like the day and night cycle and game manager' projectYear='2025' projectSoftware='Unity' projectLength='6 months'/>

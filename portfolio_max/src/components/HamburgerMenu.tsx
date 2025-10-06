@@ -78,6 +78,9 @@ function Hamburger(){
      </MotionConfig>
         <>
         <motion.span 
+        transition={{
+            ease:"linear"   
+        }}
         animate={isOpen ? "open" : "closed"}
         variants={{
             open:{
