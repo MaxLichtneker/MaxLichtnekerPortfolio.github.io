@@ -17,6 +17,7 @@ import { SiBlender } from "react-icons/si";
 import { SiAutodeskmaya } from "react-icons/si";
 import { FiFigma } from "react-icons/fi";
 import { appendFile } from 'fs';
+import { style } from 'motion/react-client';
 
 function HomePage(){
     return(
@@ -25,7 +26,7 @@ function HomePage(){
       <video className='video-style' src={require("../assets/Showreel.mp4")} autoPlay muted loop></video>
       <h1 id='Projects'>PROJECTS</h1>
       <div className='Description-style'>
-        <ProjectDescription imageName={require('../assets/a.s.rProject/a.s.r_Burnout_VR.gif')} projectName='A.S.R VR BURNOUT EXPERIENCE' projectLink='/asrburnout' projectDescription='I made a game for a.s.r I was lead developer, teaching 3 others how to use Unity while building important game systems like the day and night cycle and game manager' projectYear='2025' projectSoftware='Unity' projectLength='6 months'/>
+        <ProjectDescription imageName={require('../assets/a.s.rProject/asr_short.gif')} projectName='A.S.R VR BURNOUT EXPERIENCE' projectLink='/asrburnout' projectDescription='My team and me were tasked by a.s.r to make a vr game that would allow people to see how burnout forms and what the effects of it are. I was project lead and scrum master for this project, I worked on most of the big systems like a day and night cycle and game mamager which would handle all of the different events that could happen in the game.' projectYear='2025' projectSoftware='Unity' projectLength='6 months'/>
         <ProjectDescription imageName={require('../assets/volcano_Fest/Volcano_Fest_Clip (1).gif')} projectName='VOLCANO FEST'  projectLink='/' projectDescription='' projectYear='2025' projectSoftware='Unity' projectLength='6 months'/>
         <ProjectDescription imageName={require('../assets/switch_Project/Switchgameplay.gif')} projectName='SWITCH' projectLink='/switch' projectDescription=' Switch is a game I worked on during my internship at GreyGames. I got the time and space to work on a new project that was to be a first person shooter with the twist that the player could manipulate the environment to their advantage.' projectYear='2020-2021' projectSoftware='Unreal Engine - Blueprints' projectLength='1 Year'/>
         <ProjectDescription imageName={require('../assets/itchio_Game/Overgrown_Clip.gif')} projectName='OVERGROWN' projectLink='/overgrown' projectDescription='For this school project I worked with 3 others to make a game that we would publish on Itch.io. I worked on the plant growth mechanics and collecting mechanics as well as adding animations to the player and the enemy character' projectYear='2020' projectSoftware='Unity' projectLength='3 months'/>

@@ -83,4 +83,8 @@
     width: 90vw;
     height: auto;
   }
+
+  .video-style{
+    padding-top: 8vh;
+  }
 }

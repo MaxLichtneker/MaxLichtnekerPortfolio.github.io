@@ -1,0 +1,20 @@
+.Picture-Gallery{
+    display:flex;
+    justify-Content:center;
+    flex-wrap: nowrap;
+
+    background-Color:#364151;
+    flex-direction: row;
+    padding-top:100px;
+}
+
+.Gallery-Image{
+    width: 50vh;
+    margin: 5px;
+}
+
+@media(max-width:768px){
+.Picture-Gallery{
+    flex-wrap: wrap;
+  }
+}
