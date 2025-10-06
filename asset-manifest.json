@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MaxLichtnekerPortfolio.github.io/static/css/main.4d1f0208.css",
-    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.ac7e2051.js",
+    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.899d8291.js",
     "static/js/453.f0e57269.chunk.js": "/MaxLichtnekerPortfolio.github.io/static/js/453.f0e57269.chunk.js",
     "static/media/Showreel.mp4": "/MaxLichtnekerPortfolio.github.io/static/media/Showreel.a44f5e32c3721453aac3.mp4",
     "static/media/Volcano_Fest_Clip (1).gif": "/MaxLichtnekerPortfolio.github.io/static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
@@ -18,11 +18,11 @@
     "static/media/Asr_Presentatie_img_2.jpg": "/MaxLichtnekerPortfolio.github.io/static/media/Asr_Presentatie_img_2.3fcbd55a0852ce102084.jpg",
     "index.html": "/MaxLichtnekerPortfolio.github.io/index.html",
     "main.4d1f0208.css.map": "/MaxLichtnekerPortfolio.github.io/static/css/main.4d1f0208.css.map",
-    "main.ac7e2051.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.ac7e2051.js.map",
+    "main.899d8291.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.899d8291.js.map",
     "453.f0e57269.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/453.f0e57269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d1f0208.css",
-    "static/js/main.ac7e2051.js"
+    "static/js/main.899d8291.js"
   ]
 }
