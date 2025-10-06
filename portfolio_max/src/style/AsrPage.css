@@ -17,4 +17,8 @@
 .Picture-Gallery{
     flex-wrap: wrap;
   }
+
+  .Gallery-Image{
+    width: 70vh;
+}
 }

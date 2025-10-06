@@ -19,7 +19,7 @@ function NavBar(){
         <Link  style={{textDecoration:'none', color:'#EFA00B'}} to="/"><h1 style={{cursor:"pointer"}}>Max Lichtneker</h1></Link>
         <div className='Navbar-right Desktop-nav'>
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</h1>
-            <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</h1> 
+            <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web Development</h1> 
             <h1 className='HoverStyle' onClick={()=> ScrollToPage({pageID:'About'})}>About</h1> 
         </div>
 

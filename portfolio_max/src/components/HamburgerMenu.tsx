@@ -92,7 +92,7 @@ function Hamburger(){
         }}
         className='Hamburger-Container'>
             <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'Projects'})}>Projects</button>
-            <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web development</button>
+            <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'WebDev'})}>Web Development</button>
             <button className='Burger-Button-Style' onClick={()=> ScrollToPage({pageID:'About'})}>About</button>
         </motion.span>
         </>
