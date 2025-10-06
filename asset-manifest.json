@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MaxLichtnekerPortfolio.github.io/static/css/main.aedd3d39.css",
-    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.fc3672ef.js",
-    "static/js/453.4579bd7c.chunk.js": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js",
+    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.7ab7d91f.js",
+    "static/js/453.f0e57269.chunk.js": "/MaxLichtnekerPortfolio.github.io/static/js/453.f0e57269.chunk.js",
+    "static/media/Showreel.mp4": "/MaxLichtnekerPortfolio.github.io/static/media/Showreel.a44f5e32c3721453aac3.mp4",
     "static/media/Volcano_Fest_Clip (1).gif": "/MaxLichtnekerPortfolio.github.io/static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
     "static/media/Switchgameplay.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Switchgameplay.0f566b5bc3c412d23196.gif",
     "static/media/Overgrown_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Overgrown_Clip.059cb48123817c21c01c.gif",
     "static/media/a.s.r_Burnout_VR.gif": "/MaxLichtnekerPortfolio.github.io/static/media/a.s.r_Burnout_VR.1f68b9db86a9fb5cac02.gif",
-    "static/media/blockIt.mp4": "/MaxLichtnekerPortfolio.github.io/static/media/blockIt.13d38e612d6400df4a6d.mp4",
     "static/media/Gabriella_Portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Gabriella_Portfolio_Clip.680aa41d2c0c143ec03b.gif",
     "static/media/Egg_Game_Jam_clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Egg_Game_Jam_clip.a3f96e409ccdb9239ba2.gif",
     "static/media/Anne_portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Anne_portfolio_Clip.f4a50f6c6b97ff284c0c.gif",
@@ -15,11 +15,11 @@
     "static/media/FixMyTattoo_Gif_1.gif": "/MaxLichtnekerPortfolio.github.io/static/media/FixMyTattoo_Gif_1.767829faa9b7ac0a284f.gif",
     "index.html": "/MaxLichtnekerPortfolio.github.io/index.html",
     "main.aedd3d39.css.map": "/MaxLichtnekerPortfolio.github.io/static/css/main.aedd3d39.css.map",
-    "main.fc3672ef.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.fc3672ef.js.map",
-    "453.4579bd7c.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/453.4579bd7c.chunk.js.map"
+    "main.7ab7d91f.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.7ab7d91f.js.map",
+    "453.f0e57269.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/453.f0e57269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aedd3d39.css",
-    "static/js/main.fc3672ef.js"
+    "static/js/main.7ab7d91f.js"
   ]
 }
