@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/MaxLichtnekerPortfolio.github.io/static/css/main.4d1f0208.css",
-    "main.js": "/MaxLichtnekerPortfolio.github.io/static/js/main.899d8291.js",
-    "static/js/453.f0e57269.chunk.js": "/MaxLichtnekerPortfolio.github.io/static/js/453.f0e57269.chunk.js",
-    "static/media/Showreel.mp4": "/MaxLichtnekerPortfolio.github.io/static/media/Showreel.a44f5e32c3721453aac3.mp4",
-    "static/media/Volcano_Fest_Clip (1).gif": "/MaxLichtnekerPortfolio.github.io/static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
-    "static/media/Switchgameplay.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Switchgameplay.0f566b5bc3c412d23196.gif",
-    "static/media/Overgrown_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Overgrown_Clip.059cb48123817c21c01c.gif",
-    "static/media/asr_short.gif": "/MaxLichtnekerPortfolio.github.io/static/media/asr_short.896f0a010935edef6d8d.gif",
-    "static/media/Gabriella_Portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Gabriella_Portfolio_Clip.680aa41d2c0c143ec03b.gif",
-    "static/media/Egg_Game_Jam_clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Egg_Game_Jam_clip.a3f96e409ccdb9239ba2.gif",
-    "static/media/Anne_portfolio_Clip.gif": "/MaxLichtnekerPortfolio.github.io/static/media/Anne_portfolio_Clip.f4a50f6c6b97ff284c0c.gif",
-    "static/media/Max_Photo.png": "/MaxLichtnekerPortfolio.github.io/static/media/Max_Photo.055ad84057b53ab68f1f.png",
-    "static/media/FixMyTattoo_Gif_1.gif": "/MaxLichtnekerPortfolio.github.io/static/media/FixMyTattoo_Gif_1.767829faa9b7ac0a284f.gif",
-    "static/media/Asr_Presentatie_img_1.jpg": "/MaxLichtnekerPortfolio.github.io/static/media/Asr_Presentatie_img_1.7528337bd3bfbe58e31e.jpg",
-    "static/media/Asr_Presentatie_img_3.jpg": "/MaxLichtnekerPortfolio.github.io/static/media/Asr_Presentatie_img_3.ba87ca29fa9a58e1c253.jpg",
-    "static/media/Asr_Presentatie_img_2.jpg": "/MaxLichtnekerPortfolio.github.io/static/media/Asr_Presentatie_img_2.3fcbd55a0852ce102084.jpg",
-    "index.html": "/MaxLichtnekerPortfolio.github.io/index.html",
-    "main.4d1f0208.css.map": "/MaxLichtnekerPortfolio.github.io/static/css/main.4d1f0208.css.map",
-    "main.899d8291.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/main.899d8291.js.map",
-    "453.f0e57269.chunk.js.map": "/MaxLichtnekerPortfolio.github.io/static/js/453.f0e57269.chunk.js.map"
+    "main.css": "/static/css/main.4d1f0208.css",
+    "main.js": "/static/js/main.221856a2.js",
+    "static/js/453.f0e57269.chunk.js": "/static/js/453.f0e57269.chunk.js",
+    "static/media/Showreel.mp4": "/static/media/Showreel.a44f5e32c3721453aac3.mp4",
+    "static/media/Volcano_Fest_Clip (1).gif": "/static/media/Volcano_Fest_Clip (1).328144cd1e5ed0925571.gif",
+    "static/media/Switchgameplay.gif": "/static/media/Switchgameplay.0f566b5bc3c412d23196.gif",
+    "static/media/Overgrown_Clip.gif": "/static/media/Overgrown_Clip.059cb48123817c21c01c.gif",
+    "static/media/asr_short.gif": "/static/media/asr_short.896f0a010935edef6d8d.gif",
+    "static/media/Gabriella_Portfolio_Clip.gif": "/static/media/Gabriella_Portfolio_Clip.680aa41d2c0c143ec03b.gif",
+    "static/media/Egg_Game_Jam_clip.gif": "/static/media/Egg_Game_Jam_clip.a3f96e409ccdb9239ba2.gif",
+    "static/media/Anne_portfolio_Clip.gif": "/static/media/Anne_portfolio_Clip.f4a50f6c6b97ff284c0c.gif",
+    "static/media/Max_Photo.png": "/static/media/Max_Photo.055ad84057b53ab68f1f.png",
+    "static/media/FixMyTattoo_Gif_1.gif": "/static/media/FixMyTattoo_Gif_1.767829faa9b7ac0a284f.gif",
+    "static/media/Asr_Presentatie_img_1.jpg": "/static/media/Asr_Presentatie_img_1.7528337bd3bfbe58e31e.jpg",
+    "static/media/Asr_Presentatie_img_3.jpg": "/static/media/Asr_Presentatie_img_3.ba87ca29fa9a58e1c253.jpg",
+    "static/media/Asr_Presentatie_img_2.jpg": "/static/media/Asr_Presentatie_img_2.3fcbd55a0852ce102084.jpg",
+    "index.html": "/index.html",
+    "main.4d1f0208.css.map": "/static/css/main.4d1f0208.css.map",
+    "main.221856a2.js.map": "/static/js/main.221856a2.js.map",
+    "453.f0e57269.chunk.js.map": "/static/js/453.f0e57269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d1f0208.css",
-    "static/js/main.899d8291.js"
+    "static/js/main.221856a2.js"
   ]
 }
