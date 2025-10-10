@@ -1,7 +1,7 @@
 {
   "name": "portfolio_max",
   "version": "0.1.0",
-  "homepage": "https://gabriellalichtneker.com/MaxLichtnekerPortfolio.github.io",
+  "homepage": "https://maxlichtneker.com/MaxLichtnekerPortfolio.github.io",
   "private": false,
   "dependencies": {
     "@fortawesome/react-fontawesome": "^3.0.2",
